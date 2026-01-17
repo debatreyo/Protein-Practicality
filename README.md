@@ -1,4 +1,4 @@
-# Protein Density vs Protein Perception 🇮🇳
+# Protein Density vs Protein Perception
 
 > **India is protein deficient — but more importantly, protein misinformed.**
 
