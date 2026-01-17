@@ -41,3 +41,55 @@ This distinction is crucial for:
 - Dietary planning at scale
 
 ---
+
+## 📊 Metric Used
+
+### Protein Density
+
+Protein Density = (Protein per 100g ÷ Calories per 100g) × 100
+
+This answers:
+> *“How much protein do I get if I consume 100 calories of this food?”*
+---
+
+## 🧩 Food Grouping Logic
+
+Foods are grouped to highlight **nutritional role vs protein efficiency**:
+
+- **Poultry & Fish**  
+- **Cereals** (Rice, Wheat, Millets, Oats)  
+- **Nuts & Seeds**  
+- **Soya & High-Protein Plant Sources**  
+- **Others** (shown in neutral grey)
+
+This grouping helps visually separate:
+- Staple foods  
+- Calorie-dense foods  
+- High-efficiency protein sources  
+
+---
+
+## 🎯 Key Insights
+
+- Lentils, chickpeas, rajma, and nuts **contain protein**, but are **calorie-inefficient** as primary protein sources
+- High-protein perception ≠ high protein delivery
+- Protein adequacy cannot be solved by awareness alone — **measurement matters**
+- The Indian diet needs a **protein density lens**, not protein labeling
+
+---
+
+## 🛠️ Tools & Stack
+
+- Python    
+- Matplotlib (custom styling & annotations)  
+- Nutrition data (USFDA public food composition datasets)
+
+---
+
+## ✍️ Author
+
+**Debatreyo Roy**  
+Data Analyst | Data Storytelling | Visualization  
+📍 India
+
+---
