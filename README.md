@@ -11,6 +11,7 @@ The goal is not to label foods as *good* or *bad*, but to **separate nutritional
 
 ## Data Viz
 
+![Protein Density vs Protein Perception](viz/protein_practicality.jpeg)
 
 
 ---
